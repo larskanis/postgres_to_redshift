@@ -20,6 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 2.2"
   spec.add_development_dependency "rake", "~> 13.0"
-  spec.add_dependency "pg", "~> 1.2.0"
+  spec.add_dependency "pg", "~> 1.2"
   spec.add_dependency "aws-sdk", "~> 3.0"
 end
